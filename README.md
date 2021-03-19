@@ -1,3 +1,3 @@
-# Basic
+# Basic of ES6
 
-# Functions
+# Functions in ES6
